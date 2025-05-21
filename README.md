@@ -20,5 +20,5 @@ Our lab's github page where we upload general workflows for genomic and genetic 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronkiggen&show_icons=true" alt="GitHub Stats" />
 </p>
